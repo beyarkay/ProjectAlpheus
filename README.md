@@ -1,3 +1,6 @@
+# DEVELOPMENT HAS MOVED
+Development on this project has been moved to a new repo: [https://github.com/beyarkay/Mondrian](https://github.com/beyarkay/Mondrian)
+
 # Project Alpheus
 An Arduino-based, Python powered robot that uses a remote camera to calculate its position and draw arbitrary objects on a drawing surface
 
